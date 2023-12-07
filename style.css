@@ -50,7 +50,6 @@ strong {
     
 }
 #wave {
-    width: 626px;
-   margin: 20px 250px;
-   
+    display: flex;
+    justify-content: center;
 }
